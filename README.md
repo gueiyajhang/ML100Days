@@ -8,3 +8,5 @@ NLP machine learning marathon
 - [Day 003 Python 文字處理函數介紹 - 正規表達式](https://github.com/gueiyajhang/ML100Days/blob/main/homework/Day3_Regex_%E4%BD%9C%E6%A5%AD.ipynb) 
 <br><br>
 - [Day 004 Python 文字處理函數介紹 - 正規表達式](https://github.com/gueiyajhang/ML100Days/blob/main/homework/Day4-%20Python_regular_expression_%E4%BD%9C%E6%A5%AD.ipynb) 
+<br><br>
+- [Day 005 Python 文字處理函數介紹 - 正規表達式](https://github.com/gueiyajhang/ML100Days/blob/main/homework/Day4-%20Python_regular_expression_%E4%BD%9C%E6%A5%AD.ipynb) 
