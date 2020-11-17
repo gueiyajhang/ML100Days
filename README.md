@@ -10,5 +10,5 @@ NLP machine learning marathon
 <br><br>
 - [Day 004 Python 正規表達式](https://github.com/gueiyajhang/ML100Days/blob/main/homework/Day4-%20Python_regular_expression_%E4%BD%9C%E6%A5%AD.ipynb) 
 ##### 辭彙與分詞技術
+- [Day 005 Python NLP中文斷詞](https://github.com/gueiyajhang/ML100Days/blob/main/homework/Day5-%20%E6%96%B7%E8%A9%9E%E4%BD%9C%E6%A5%AD.ipynb)
 <br><br>
-- [Day 005 Python NLP中文斷詞](https://github.com/gueiyajhang/ML100Days/blob/main/homework/Day5-%20%E6%96%B7%E8%A9%9E%E4%BD%9C%E6%A5%AD.ipynb) 
